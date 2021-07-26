@@ -1,0 +1,20 @@
+{
+  "headOfDepartment" : {
+    "firstName" : "Кирилл",
+    "lastName" : "Чувызгалов",
+    "age" : 20
+  },
+  "nameOfDepartment" : "It",
+  "workers" : [
+    {
+      "firstName" : "Дмитрий",
+      "lastName" : "Перминов",
+      "age" : 10
+    },
+    {
+      "firstName" : "Мария",
+      "lastName" : "Перминова",
+      "age" : 7
+    }
+  ]
+}
